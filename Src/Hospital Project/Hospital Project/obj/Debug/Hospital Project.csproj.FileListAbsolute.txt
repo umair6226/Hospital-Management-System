@@ -1,0 +1,28 @@
+C:\Users\92348\Desktop\Hospital Management System\Hospital Project\Hospital Project\bin\Debug\Hospital Project.exe.config
+C:\Users\92348\Desktop\Hospital Management System\Hospital Project\Hospital Project\bin\Debug\Hospital Project.exe
+C:\Users\92348\Desktop\Hospital Management System\Hospital Project\Hospital Project\bin\Debug\Hospital Project.pdb
+C:\Users\92348\Desktop\Hospital Management System\Hospital Project\Hospital Project\obj\Debug\Hospital_Project.FrmMain.resources
+C:\Users\92348\Desktop\Hospital Management System\Hospital Project\Hospital Project\obj\Debug\Hospital_Project.Properties.Resources.resources
+C:\Users\92348\Desktop\Hospital Management System\Hospital Project\Hospital Project\obj\Debug\Hospital Project.csproj.GenerateResource.cache
+C:\Users\92348\Desktop\Hospital Management System\Hospital Project\Hospital Project\obj\Debug\Hospital Project.csproj.CoreCompileInputs.cache
+C:\Users\92348\Desktop\Hospital Management System\Hospital Project\Hospital Project\obj\Debug\Hospital Project.exe
+C:\Users\92348\Desktop\Hospital Management System\Hospital Project\Hospital Project\obj\Debug\Hospital Project.pdb
+C:\Users\92348\Desktop\Hospital Management System\Hospital Project\Hospital Project\obj\Debug\Hospital_Project.FrmLogin.resources
+C:\Users\92348\Desktop\Hospital Management System\Hospital Project\Hospital Project\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\92348\Desktop\Hospital Management System\Hospital Project\Hospital Project\obj\Debug\Hospital Project.csproj.CopyComplete
+C:\Users\92348\Desktop\Hospital Management System\Hospital Project\Hospital Project\bin\Debug\SipaaFramework.dll
+C:\Users\92348\Desktop\Hospital Management System\Hospital Project\Hospital Project\obj\Debug\Hospital_Project.FrmPatients.resources
+C:\Users\92348\Desktop\Hospital Management System\Hospital Project\Hospital Project\obj\Debug\Hospital_Project.FrmDoctors.resources
+C:\Users\92348\Desktop\Hospital Management System\Hospital Project\Hospital Project\obj\Debug\Hospital Project.csproj.AssemblyReference.cache
+C:\Users\92348\Desktop\Hospital Management System\Hospital Project\Hospital Project\obj\Debug\Hospital_Project.FrmFullDetails.resources
+C:\Users\92348\Desktop\Hospital Management System\Hospital Project\Hospital Project\obj\Debug\Hospital_Project.FrmStaff.resources
+C:\Users\92348\Desktop\Hospital Management System\Hospital Project\Hospital Project\obj\Debug\Hospital_Project.FrmAppointments.resources
+C:\Users\92348\Desktop\Hospital Management System\Hospital Project\Hospital Project\obj\Debug\Hospital_Project.FrmPharmacy.resources
+C:\Users\92348\Desktop\Hospital Management System\Hospital Project\Hospital Project\bin\Debug\MetroFramework.Design.dll
+C:\Users\92348\Desktop\Hospital Management System\Hospital Project\Hospital Project\bin\Debug\MetroFramework.dll
+C:\Users\92348\Desktop\Hospital Management System\Hospital Project\Hospital Project\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\92348\Desktop\Hospital Management System\Hospital Project\Hospital Project\obj\Debug\Hospital_Project.FrmPatientVisit.resources
+C:\Users\92348\Desktop\Hospital Management System\Hospital Project\Hospital Project\obj\Debug\Hospital_Project.FrmIPBilling.resources
+C:\Users\92348\Desktop\Hospital Management System\Hospital Project\Hospital Project\obj\Debug\Hospital_Project.FrmOPBilling.resources
+C:\Users\92348\Desktop\Hospital Management System\Hospital Project\Hospital Project\obj\Debug\Hospital_Project.FrmReceipt.resources
+C:\Users\92348\Desktop\Hospital Management System\Hospital Project\Hospital Project\obj\Debug\Hospital_Project.FrmAcounts.resources
